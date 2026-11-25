@@ -4,9 +4,9 @@
 
 ### Team Member Names & ID Numbers:
 
-1. 26200206 – C.Yasashwini
-2. 26200210 – S.Amulya Reddy
-3. 26200500 – L.Manasa Pranavi
+1. 2620030206 – C.Yasashwini
+2. 2620030210 – S.Amulya Reddy
+3. 2620030500 – L.Manasa Pranavi
 
 **Supervisor’s Name:** Dr. Madhavi Karumudi
 
